@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+rasterio
+scikit-learn
+statsmodels
+xgboost
+optuna
+geocube
+cartopy
+shap
+shapely
+xarray
