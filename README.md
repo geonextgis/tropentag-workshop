@@ -1,1 +1,1 @@
-This repository was created for the Tropentag Conference Workshop to demonstrate the application of hybrid models combining process-based models (PBM) and machine learning (ML) for crop yield prediction.
+This repository has been created for the Tropentag Conference Workshop to demonstrate the application of hybrid models combining process-based models (PBM) and machine learning (ML) for crop yield prediction.
